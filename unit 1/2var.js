@@ -1,0 +1,13 @@
+	var MyName="Shohrab Rustam";
+	console.log(MyName);
+	const pi=3.14;
+	console.log(pi);
+	let name="Rustam";
+	console.log(name);
+	console.log("inatilize the Variable");
+	var a=8;
+	var b=10; 
+	var c="i am a ";
+	console.log(a);
+	console.log(b);
+	console.log(c+"String");

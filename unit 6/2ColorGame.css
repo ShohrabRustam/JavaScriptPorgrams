@@ -1,0 +1,14 @@
+body{
+	background-color: Grey;
+}
+.Square{
+	width: 30%;
+	background-color: purple;
+	padding-bottom: 30%;
+	float:left;
+	margin: 1.66%; 
+}
+#Container {
+	max-width: 600px;
+	margin: 0 auto; 
+}
